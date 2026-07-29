@@ -1,0 +1,21 @@
+import canonicalLaneMathlib.AdmissibleClass
+import HautevilleHouse.ClinicalMedicineQualityImprovementTheoremCanonicalLaneLean.CompartmentModel
+import HautevilleHouse.ClinicalMedicineQualityImprovementTheoremCanonicalLaneLean.PharmacokineticModel
+import HautevilleHouse.ClinicalMedicineQualityImprovementTheoremCanonicalLaneLean.DiagnosticInference
+import HautevilleHouse.ClinicalMedicineQualityImprovementTheoremCanonicalLaneLean.SurvivalAnalysis
+import HautevilleHouse.ClinicalMedicineQualityImprovementTheoremCanonicalLaneLean.QualityImprovementIntervention
+import HautevilleHouse.ClinicalMedicineQualityImprovementTheoremCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace ClinicalMedicineQualityImprovementTheoremCanonicalLaneLean
+
+-- Root module for the Clinical Medicine Quality Improvement Theorem Canonical Lane Lean formalization.
+
+def repositoryName : String :=
+  "ClinicalMedicineQualityImprovementTheoremCanonicalLaneLean"
+
+def description : String :=
+  "A formalization of the Clinical Medicine Quality Improvement Theorem using admissible-class bridge closure."
+
+end ClinicalMedicineQualityImprovementTheoremCanonicalLaneLean
+end HautevilleHouse
